@@ -1,3 +1,6 @@
 ---
 
 #This is the Ansible Inventory file
+
+ansible_host = 54.159.253.13
+ansible_host ansible_ssh_pass=abc@123456789 ansible_ssh_user=root
